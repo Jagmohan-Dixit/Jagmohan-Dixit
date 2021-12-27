@@ -1,15 +1,15 @@
-# Hi, This is Sarthak 👋
+# Hi, This is Jagmohan Dixit 👋
 ### 🔭 My aim is to become a MERN Stack Web Developer
 
 ### 🌱 I’m currently learning JavaScript & ReactJS
-### 📫 Reach me @sarthak.kmr503@gmail.com
+### 📫 Reach me @jagmohandixit686@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sarthak-kumar503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarthak_kumar503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hr" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sarthak_503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="cc" height="30" width="40" /></a>
-<a href="https://leetcode.com/sarthak503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ld" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jagmohandixit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lk" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jaggu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hr" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jaggu3484" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="cc" height="30" width="40" /></a>
+<a href="https://leetcode.com/jagmohandixit686/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ld" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
@@ -24,15 +24,15 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak503&count_private=true&theme=cobalt)](#)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak503&theme=dark" alt="singhsduos" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak503&show_icons=true&locale=en&theme=dark" alt="sarthak503" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jagmohan-Dixit&count_private=true&theme=cobalt)](#)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagmohan-Dixit&theme=dark" alt="singhsduos" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jagmohan-Dixit&show_icons=true&locale=en&theme=dark" alt="Jagmohan Dixit" />
 
 
 
 
 <!--
-**sarthak503/sarthak503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jagmohan-Dixit/Jagmohan-Dixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
