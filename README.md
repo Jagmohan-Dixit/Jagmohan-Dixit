@@ -1,7 +1,7 @@
 # Hi, This is Jagmohan Dixit 👋
 ### 🔭 My aim is to become a Software Engineer
 
-### 🌱 I’m currently learning NodeJS
+### 🌱 I’m currently learning MERN Stack
 ### 📫 Reach me @jagmohandixit686@gmail.com
 
 <h3 align="left">Connect with me:</h3>
