@@ -1,7 +1,7 @@
 # Hi, This is Jagmohan Dixit 👋
 ### 🔭 My aim is to become a Software Engineer
 
-### 🌱 I’m currently learning Flask
+### 🌱 I’m currently learning NodeJS
 ### 📫 Reach me @jagmohandixit686@gmail.com
 
 <h3 align="left">Connect with me:</h3>
